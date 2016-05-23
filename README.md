@@ -10,6 +10,13 @@
 - 1个issue代表1个问题
 - 代码尽可能的有线上版 http://plnkr.co/
 
+更多学习资源:
+
+- http://staltz.com/rxmarbles/
+- https://github.com/ReactiveX/rxjs
+- https://xgrommx.github.io/rx-book/
+- http://www.introtorx.com/
+
 ### QQ群
 
 257961826
