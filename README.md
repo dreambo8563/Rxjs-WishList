@@ -16,6 +16,7 @@
 - https://github.com/ReactiveX/rxjs
 - https://xgrommx.github.io/rx-book/
 - http://www.introtorx.com/
+- https://mcxiaoke.gitbooks.io/rxdocs/content/index.html (中文)
 
 ### QQ群
 
