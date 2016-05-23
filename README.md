@@ -1,7 +1,7 @@
 # Rxjs-WishList
 
 
-## [问一个问题](https://github.com/dreambo8563/Rxjs-WishList/issues/new) &nbsp;&nbsp;&nbsp; [查看所有问题](https://github.com/dreambo8563/Rxjs-WishList/issues)
+## [问一个问题](https://github.com/dreambo8563/Rxjs-WishList/issues/new) &nbsp;&nbsp;&nbsp; [查看所有问题](https://github.com/dreambo8563/Rxjs-WishList/issues?utf8=%E2%9C%93&q=is%3Aissue+)
 
 ### 指南
 
