@@ -17,6 +17,10 @@
 - https://xgrommx.github.io/rx-book/
 - http://www.introtorx.com/
 - https://mcxiaoke.gitbooks.io/rxdocs/content/index.html (中文)
+- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+- http://reactivex.io/learnrx/
+- https://egghead.io/technologies/rx
+- https://www.youtube.com/watch?v=XRYN2xt11Ek
 
 ### QQ群
 
