@@ -21,6 +21,7 @@
 - http://reactivex.io/learnrx/
 - https://egghead.io/technologies/rx
 - https://www.youtube.com/watch?v=XRYN2xt11Ek
+- http://cycle.js.org/
 
 ### QQ群
 
